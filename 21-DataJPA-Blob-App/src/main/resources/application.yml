@@ -1,0 +1,23 @@
+# Conversion to YAML from Properties formar report
+# Errors:
+# - Direct assignment 'spring=' can not be combined with sub-property assignment 'spring.application...'. Direct assignment is dropped!
+# Warnings:
+# - The yaml file had comments which are lost in the refactoring!
+
+# Conversion to YAML from Properties formar report
+# Warnings:
+# - The yaml file had comments which are lost in the refactoring!
+spring:
+  application:
+    name: 21-DataJPA-Blob-App
+  datasource:
+    url: jdbc:mysql://localhost:3306/sbms
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+    
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create
+

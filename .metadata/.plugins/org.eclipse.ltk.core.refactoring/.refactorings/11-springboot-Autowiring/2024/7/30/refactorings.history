@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;OracleReportDaoImpl.java&apos; to &apos;11-springboot-Autowiring/src/main/java/com.sukla.dao&apos;&#x0D;&#x0A;- Original project: &apos;11-springboot-Autowiring&apos;&#x0D;&#x0A;- Destination element: &apos;11-springboot-Autowiring/src/main/java/com.sukla.dao&apos;&#x0D;&#x0A;- Original element: &apos;com.sukla.dao.OracleReportDaoImpl.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sukla.dao" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sukla.dao{OracleReportDaoImpl.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1721580540103" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;10-springboot-Autowiring&apos; to &apos;11-springboot-Autowiring&apos;&#x0D;&#x0A;- Original element: &apos;10-springboot-Autowiring&apos;&#x0D;&#x0A;- Renamed element: &apos;10-springboot-Autowiring&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;10-springboot-Autowiring&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=10-springboot-Autowiring" name="11-springboot-Autowiring" references="true" stamp="1721578283384" version="1.0"/>
+</session>
